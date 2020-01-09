@@ -434,7 +434,7 @@ canvas {
 }
 
 .portfolio .logo {
-    background: url(../images/white-bastet.png) 0 0 no-repeat;
+    background: url(../../images/white-bastet.png) 0 0 no-repeat;
     width: 26px;
     height: 38px;
     float: left;
@@ -457,7 +457,7 @@ canvas {
     margin: 0 5%;
     background: #fff;
     border-radius: 400px;
-    background: url(../images/bella.png) 0 0 no-repeat;
+    background: url(../../images/bella.png) 0 0 no-repeat;
     background-size: 100%;
     border: 5px solid rgba(255, 255, 255, 0.25);
 }
@@ -519,22 +519,22 @@ canvas {
 }
 
 .work-block .gemas {
-    background: url(../images/3dgemas.jpg) center center no-repeat;
+    background: url(../../images/3dgemas.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .work-block .pururin {
-    background: url(../images/puru.jpg) center center no-repeat;
+    background: url(../../images/puru.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .work-block .comercial {
-    background: url(../images/comercial.jpg) center center no-repeat;
+    background: url(../../images/comercial.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .work-block .bestprice {
-    background: url(../images/bestprice.jpg) center center no-repeat;
+    background: url(../../images/bestprice.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -578,13 +578,13 @@ canvas {
 }
 
 .block .icon.education {
-    background: url(../images/academic.png) 0 0 no-repeat;
+    background: url(../../images/academic.png) 0 0 no-repeat;
     height: 36px;
     background-size: cover;
 }
 
 .block .icon.work {
-    background: url(../images/work.png) 0 0 no-repeat;
+    background: url(../../images/work.png) 0 0 no-repeat;
     width: 50px;
     height: 43px;
     margin: 0 5px;
@@ -686,15 +686,15 @@ canvas {
 }
 
 .s-block .green {
-    background: url(../images/green.png) center center no-repeat;
+    background: url(../../images/green.png) center center no-repeat;
 }
 
 .s-block .pink {
-    background: url(../images/pink.png) center center no-repeat;
+    background: url(../../images/pink.png) center center no-repeat;
 }
 
 .s-block .purple {
-    background: url(../images/purple.png) center center no-repeat;
+    background: url(../../images/purple.png) center center no-repeat;
 }
 
 .social-footer {
@@ -751,7 +751,7 @@ canvas {
 }
 
 .footer .info span {
-    background: url(../images/2764.svg) 0 0 no-repeat;
+    background: url(../../images/2764.svg) 0 0 no-repeat;
     width: 13px;
     height: 13px;
     display: inline-block;
@@ -815,7 +815,7 @@ canvas {
 }
 
 .contact a i {
-    background: url(../images/mail.png) 0 0 no-repeat;
+    background: url(../../images/mail.png) 0 0 no-repeat;
     width: 16px;
     height: 16px;
     display: inline-block;
